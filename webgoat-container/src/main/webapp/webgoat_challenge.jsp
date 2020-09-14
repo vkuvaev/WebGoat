@@ -8,7 +8,7 @@
         <h3 class="modal-title" id="myModalLabel">About WebGoat - Provided by the OWASP Foundation</h3>
     </div>
     <div class="modal-body modal-scroll">
-        <p>Thanks for hacking The Goat!</p> 
+        <p>Thanks for hacking The WebGoat!</p>
         <p>WebGoat is a demonstration of common web application flaws. The
             associated exercises are intended to provide hands-on experience with
             techniques aimed at demonstrating and testing application penetration.
