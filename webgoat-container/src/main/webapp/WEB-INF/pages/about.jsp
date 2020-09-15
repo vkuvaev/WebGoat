@@ -10,6 +10,7 @@
     </div>
     <div class="modal-body modal-scroll">
         <p>Thanks for hacking the WebGoat!</p>
+        <p> Checking for security </p>
         <p>WebGoat is a demonstration of common web application flaws. The
             associated exercises are intended to provide hands-on experience with
             techniques aimed at demonstrating and testing application penetration.
